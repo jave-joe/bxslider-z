@@ -1,6 +1,4 @@
-# ⚠️ Looking for a maintainer ⚠️
-Please contact me if you are interested in keeping our community alive:  
-https://github.com/stevenwanderski/bxslider-4/issues/1095
+
 
 ---
 
